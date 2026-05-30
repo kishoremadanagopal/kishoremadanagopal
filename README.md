@@ -132,16 +132,11 @@ Deep EDA on NYC Airbnb Open Data — pricing patterns, availability, review dyna
 </div>
 <!--
 ## 📊 GitHub Stats
-
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=kishoremadanagopal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&rank_icon=github"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoremadanagopal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9&langs_count=6"/>
-
 <br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kishoremadanagopal&theme=dark&hide_border=true&background=0d1117&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35)
-
 </div>
 -->
 ---
