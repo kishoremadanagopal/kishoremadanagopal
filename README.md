@@ -74,34 +74,29 @@ End-to-end NLP pipeline for biomedical research. BioBERT embeddings, Chroma vect
 
 `LangChain` `FAISS` `Chroma` `BioBERT` `GPT API`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/Medical-Literature-Retrieval-System-RAG-LLMs)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/Medical-Literature-Retrieval-System-RAG-LLMs-)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Automation Agent
-Autonomous agent that runs daily at 8 AM — scrapes LinkedIn JDs via Apify, scores resume-JD alignment via embeddings, rewrites sections with GPT-4o for ATS, delivers tailored PDF via Gmail. Fully hands-free.
+### 🤖 RLHF Reward Model
+Custom reward modeling work — training and evaluating a reward model against human preference data as part of RLHF pipeline experimentation.
 
-![](https://img.shields.io/badge/Time_Saved-30min→<1min-22c55e?style=flat-square)
-![](https://img.shields.io/badge/Trigger-Daily_8AM-ff6b35?style=flat-square)
+`Reward Modeling` `RLHF` `Jupyter Notebook`
 
-`n8n` `OpenAI API` `Apify` `Gmail API` `Embeddings`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/ai-resume-agent)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/rlhf-reward-model)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Accident Data Analytics — 1M+ Records
-Multi-database pipeline over 1M+ road accident records using SQL (advanced aggregations), MongoDB (demographic queries), and Python visualizations to surface high-risk zones for safety policy.
+### 🎨 Stable Diffusion LoRA Fine-Tune
+LoRA fine-tuning experiments on Stable Diffusion for efficient, low-rank adaptation of a diffusion model to a custom dataset/style.
 
-![](https://img.shields.io/badge/Records-1M+-ff6b35?style=flat-square)
+`LoRA` `Stable Diffusion` `Fine-Tuning` `Python`
 
-`MS SQL Server` `MongoDB` `Python` `Pandas`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/sd-lora-finetune)
 
 </td>
 <td width="50%" valign="top">
