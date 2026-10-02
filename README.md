@@ -74,7 +74,7 @@ End-to-end NLP pipeline for biomedical research. BioBERT embeddings, Chroma vect
 
 `LangChain` `FAISS` `Chroma` `BioBERT` `GPT API`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/Medical-Literature-Retrieval-System-RAG-LLMs-)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/medical-literature-rag)
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +84,7 @@ Custom reward modeling work — training and evaluating a reward model against h
 
 `Reward Modeling` `RLHF` `Jupyter Notebook`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/rlhf-reward-model)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/rlhf-pipeline)
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ LoRA fine-tuning experiments on Stable Diffusion for efficient, low-rank adaptat
 
 `LoRA` `Stable Diffusion` `Fine-Tuning` `Python`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/sd-lora-finetune)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/stable-diffusion-lora)
 
 </td>
 <td width="50%" valign="top">
@@ -106,7 +106,7 @@ Deep EDA on NYC Airbnb Open Data — pricing patterns, availability, review dyna
 
 `Python` `Pandas` `NumPy` `Seaborn` `Matplotlib`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/NYC-Airbnb-Exploratory-Data-Analysis)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/nyc-airbnb-analysis)
 
 </td>
 </tr>
@@ -118,8 +118,8 @@ Free, hands-on courses with **55 lessons** and **141 auto-checked exercises**. E
 
 `SQL` `Python` `Brython` `SQLite` `HTML/CSS/JS`
 
-[![Live](https://img.shields.io/badge/Open_Course-0e7466?style=flat-square&logo=githubpages&logoColor=white)](https://kishoremadanagopal.github.io/Learning/)
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/Learning)
+[![Live](https://img.shields.io/badge/Open_Course-0e7466?style=flat-square&logo=githubpages&logoColor=white)](https://kishoremadanagopal.github.io/learning/)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/learning)
 
 </td>
 <td width="50%" valign="top">
@@ -132,7 +132,7 @@ Classifies URLs as phishing or legitimate from 30 URL, DNS and page-content feat
 
 `Scikit-learn` `Random Forest` `XGBoost` `Flask`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/Phishing-Website-Detection-ML)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/phishing-website-detector)
 
 </td>
 </tr>
