@@ -114,7 +114,7 @@ Deep EDA on NYC Airbnb Open Data — pricing patterns, availability, review dyna
 <td width="50%" valign="top">
 
 ### 📚 Learning — SQL, Python, Data & Java from Scratch
-Free, hands-on courses with **124 lessons** and **260 auto-checked exercises**. Each course has a sandbox that runs code right in the browser (SQLite, Python, real pandas via Pyodide, and a real Java 17 compiler), plus a glossary, cheat sheet and the **Java Quest** syntax game.
+Free, hands-on courses with **126 lessons** and **294 auto-checked exercises**. Each course has a sandbox that runs code right in the browser (SQLite, Python, real pandas via Pyodide, and a real Java 17 compiler), plus a glossary, cheat sheet and the **Java Quest** syntax game.
 
 `SQL` `Python` `pandas` `NumPy` `Java` `Pyodide` `SQLite` `CheerpJ` `HTML/CSS/JS`
 
