@@ -110,6 +110,32 @@ Deep EDA on NYC Airbnb Open Data — pricing patterns, availability, review dyna
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Learning — SQL & Python from Scratch
+Free, hands-on courses with **55 lessons** and **141 auto-checked exercises**. Each course has a sandbox that runs code right in the browser (SQLite and Python), plus a glossary and cheat sheet.
+
+`SQL` `Python` `Brython` `SQLite` `HTML/CSS/JS`
+
+[![Live](https://img.shields.io/badge/Open_Course-0e7466?style=flat-square&logo=githubpages&logoColor=white)](https://kishoremadanagopal.github.io/Learning/)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/Learning)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Phishing Website Detection
+Classifies URLs as phishing or legitimate from 30 URL, DNS and page-content features, served through a Flask web app.
+
+![](https://img.shields.io/badge/Accuracy-96.6%25-22c55e?style=flat-square)
+![](https://img.shields.io/badge/ROC--AUC-0.995-22c55e?style=flat-square)
+
+`Scikit-learn` `Random Forest` `XGBoost` `Flask`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/Phishing-Website-Detection-ML)
+
+</td>
+</tr>
 </table>
 
 ---
