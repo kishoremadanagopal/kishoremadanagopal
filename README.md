@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Kishore%20Madanagopal&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20RLHF%20%C2%B7%20LLM%20Alignment%20%C2%B7%20Agentic%20AI&descAlignY=75&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Kishore%20Madanagopal&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Applied%20AI%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI%20%C2%B7%20Data&descAlignY=75&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e7466?style=for-the-badge&logo=githubpages&logoColor=white)](https://kishoremadanagopal.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishoremadanagopal)
 [![Google Scholar](https://img.shields.io/badge/Scholar-9%20Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=w5tvejIAAAAJ&hl=en)
 [![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10059702)
@@ -12,7 +13,7 @@
 <br/>
 
 ```
-🔬 Running RLHF pipelines for Amazon AI Research @ Keywords Studios
+🔬 LLM evaluation for Amazon AGI Frontier @ Keywords Studios (2025–2026)
 🎓 MS MIS · Oklahoma State University · 4.0 GPA · Outstanding Graduate Student
 📍 San Jose, CA · ✅ US Work Authorized · 🟢 Open to Work
 ```
@@ -21,36 +22,36 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Pre-training+%E2%86%92+CFT+%E2%86%92+AFT+%E2%86%92+CoT+Optimization;Reward+Modeling+%C2%B7+RRR+Framework+%C2%B7+Human-in-the-Loop;RAG+Pipelines+%C2%B7+Agentic+AI+%C2%B7+Production+ML;PyTorch+%C2%B7+HuggingFace+%C2%B7+LangChain+%C2%B7+AWS" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=LLM+Evaluation+%C2%B7+Prompt+Engineering+%C2%B7+Human-in-the-Loop;RAG+Pipelines+%C2%B7+AI+Agents+%C2%B7+Workflow+Automation;Python+%C2%B7+SQL+%C2%B7+PySpark+%C2%B7+Tableau+%C2%B7+Power+BI;LangChain+%C2%B7+FAISS+%C2%B7+Chroma+%C2%B7+n8n+%C2%B7+AWS" alt="Typing SVG" width="100%"/>
 
 ---
 
 ## ⚡ What I Do
 
-> I build **production-grade AI systems** at the intersection of reinforcement learning and LLM alignment.
-> My day-to-day at **Keywords Studios** involves executing the full RLHF training loop — reward signal design, preference modeling, and Chain-of-Thought optimization — in direct support of **Amazon's AI research**.
+> I work where **AI meets data**: evaluating how LLMs behave, keeping the data behind them trustworthy, and building RAG systems and agentic workflows.
+> Most recently at **Keywords Studios** on **Amazon's AGI Frontier** project, I evaluated large-scale LLM outputs for accuracy and reasoning, designed prompts to surface failure modes, applied structured evaluation rubrics, and ran quality control on training and evaluation data.
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🤖 Core Expertise
-- **RLHF** — Full pipeline: CFT → AFT → RRR framework
-- **Reward Modeling** — Signal design, distribution modeling
-- **Chain-of-Thought** — Trace scoring, failure analysis, iteration
-- **LLM Fine-Tuning** — SFT, preference alignment, eval
-- **Agentic AI** — Autonomous multi-step workflow systems
+- **LLM Evaluation** — Rubric scoring, failure-mode analysis, benchmarking
+- **Prompt Engineering** — Iterative testing, edge-case discovery
+- **Training Data Quality** — Collection, validation, QC
 - **RAG Pipelines** — FAISS, Chroma, BioBERT, LangChain
+- **Agentic AI** — Multi-agent n8n workflows, OpenAI API
+- **Analytics** — SQL, PySpark, Tableau, Power BI, Alteryx
 
 </td>
 <td width="50%">
 
 ### 🛠️ Tech Stack
 - **Frameworks:** PyTorch · HuggingFace · LangChain · n8n
-- **Languages:** Python · TypeScript · SQL · Bash
-- **Cloud:** AWS (EC2, S3, Lambda, Bedrock) · Azure
-- **Data:** FAISS · Chroma · MongoDB · MS SQL Server
-- **MLOps:** Docker · Git · CI/CD · REST APIs
+- **Languages:** Python · SQL · PySpark · R · JavaScript · PowerShell
+- **Cloud:** AWS · Azure (AZ-104)
+- **Data:** PostgreSQL · MS SQL Server · MongoDB · FAISS · Chroma
+- **Tools:** Git · REST APIs · Flask · Jira
 - **Enterprise:** Workday · Tableau · Alteryx · KNIME
 
 </td>
@@ -79,8 +80,8 @@ End-to-end NLP pipeline for biomedical research. BioBERT embeddings, Chroma vect
 </td>
 <td width="50%" valign="top">
 
-### 🤖 RLHF Reward Model
-Custom reward modeling work — training and evaluating a reward model against human preference data as part of RLHF pipeline experimentation.
+### 🤖 RLHF Pipeline (personal project)
+Reward model trained on human preference data, then PPO fine-tuning of a policy model scored by that reward model.
 
 `Reward Modeling` `RLHF` `Jupyter Notebook`
 
@@ -178,7 +179,7 @@ Classifies URLs as phishing or legitimate from 30 URL, DNS and page-content feat
 
 <div align="center">
 
-### 💬 Open to roles in AI Engineering · ML Engineering · RL Engineering · Applied Science · LLM Engineering
+### 💬 Open to roles in Applied AI · AI Evaluation & Post-Training · AI Solutions · Analytics Engineering · AI Automation
 **Remote · Hybrid · Onsite · US Authorized**
 
 <br/>
