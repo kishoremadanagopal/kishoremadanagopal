@@ -114,10 +114,10 @@ Deep EDA on NYC Airbnb Open Data — pricing patterns, availability, review dyna
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Learning — SQL, Python, Data, Statistics, ML, DSA, AI Engineering & Java from Scratch
-Free, hands-on courses with **256 lessons**, **558 auto-checked exercises** and diagrams in the lessons, including a full **Data Structures and Algorithms** course with hidden tests, speed checks and step-by-step walkthroughs, and **AI Engineering with LLMs** (prompting, RAG, agents, MCP and evals, practised without an API key). Each course has a sandbox that runs code right in the browser (SQLite, Python, real pandas, SciPy and scikit-learn via Pyodide, and a real Java 17 compiler), plus a glossary, cheat sheet and the **Java Quest** syntax game.
+### 📚 Learning — SQL, Python, Data, Statistics, ML, DSA, AI Engineering, JavaScript/TypeScript & Java from Scratch
+Free, hands-on courses with **301 lessons**, **648 auto-checked exercises** and diagrams in the lessons, including a full **Data Structures and Algorithms** course with hidden tests, speed checks and step-by-step walkthroughs, **AI Engineering with LLMs** (prompting, RAG, agents, MCP and evals, practised without an API key), and **JavaScript, TypeScript and JSON** (live page previews, TypeScript checked by the real compiler, and a typed LLM shopping assistant with tools). Each course has a sandbox that runs code right in the browser (SQLite, Python, real pandas, SciPy and scikit-learn via Pyodide, JavaScript and TypeScript, and a real Java 17 compiler), plus a glossary, cheat sheet and the **Java Quest** syntax game.
 
-`SQL` `Python` `pandas` `NumPy` `Statistics` `SciPy` `scikit-learn` `Machine Learning` `DSA` `LLMs` `RAG` `AI Agents` `MCP` `Java` `Pyodide` `SQLite` `CheerpJ` `HTML/CSS/JS`
+`SQL` `Python` `pandas` `NumPy` `Statistics` `SciPy` `scikit-learn` `Machine Learning` `DSA` `LLMs` `RAG` `AI Agents` `MCP` `JavaScript` `TypeScript` `Node.js` `Java` `Pyodide` `SQLite` `CheerpJ` `HTML/CSS/JS`
 
 [![Live](https://img.shields.io/badge/Open_Course-0e7466?style=flat-square&logo=githubpages&logoColor=white)](https://kishoremadanagopal.github.io/learning/)
 [![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github)](https://github.com/kishoremadanagopal/learning)
